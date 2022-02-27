@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hannam's last farewell to the world: being a full and true relation of the notorious life and shamfull death of Mr. Richard Hannam, the great robber of England; with the manner of his apprehension, examination, confession and speech made to the sheriffs a little before his execution in the round in Smithfield, in Tuesday the 17. of June, 1656,</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87070</idno>
+            <idno type="STC">Wing H655A</idno>
+            <idno type="STC">Thomason E1642_2</idno>
+            <idno type="STC">ESTC R209073</idno>
+            <idno type="EEBO-CITATION">99867978</idno>
+            <idno type="PROQUEST">99867978</idno>
+            <idno type="VID">170198</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87070)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170198)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 206:E1642[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Hannam's last farewell to the world: being a full and true relation of the notorious life and shamfull death of Mr. Richard Hannam, the great robber of England; with the manner of his apprehension, examination, confession and speech made to the sheriffs a little before his execution in the round in Smithfield, in Tuesday the 17. of June, 1656,</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Vere; and William Gilbertson,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June. 19.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hannam, Richard, d. 1656 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:170198:1" rendition="simple:additions"/>
+HANNAM'S Laſt farewell to the WORLD: Being a full and true Re<g ref="char:EOLhyphen"/>lation of the notorious Life and ſham<g ref="char:EOLhyphen"/>full Death of Mr. <hi>Richard Hannam,</hi> the great Robber of <hi>England;</hi> with the man<g ref="char:EOLhyphen"/>ner of his apprehenſion, Examination, Confeſſion and ſpeech made to the Sheriffs a little before his Execution in the Round in <hi>Smithfield,</hi> on Tueſday the 17. of <hi>June,</hi> 1656,</p>
+            <figure>
+               <figDesc>a man, hanged on gallows</figDesc>
+            </figure>
+            <p>London, Printed for Thomas Vere; and William Gilbertſon, 1656.</p>
+            <pb facs="tcp:170198:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:170198:2"/>
+            <head>Truth to gaine Credit<hi>: OR,</hi> A true and impartiall Relation of the apprehenſion, examination, and ex<g ref="char:EOLhyphen"/>ecution of Mr. <hi>Richard Hannam,</hi> on Tueſday the 17. of <hi>June</hi> 1656.</head>
+            <p>
+               <seg rend="decorInit">S</seg>O many and various have bin the reports concer<g ref="char:EOLhyphen"/>ning M. <hi>Richard Hannam</hi> the grand robber of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> that meerely to vin<g ref="char:EOLhyphen"/>dicate the truth, and really to informe the people of this Nation in each parti<g ref="char:EOLhyphen"/>cular circumſtance of the buſineſſe, I have ſet Pen to Paper only to teſtifie what I received from his owne Mouth, and heard at his Execution.</p>
+            <p>He was the Son of M. <hi>Richard Han<g ref="char:EOLhyphen"/>nam</hi> a Shoomaker, born in <hi>Shafiſbury</hi> a gallant Town in <hi>Dorſetſhire,</hi> his parents living in very good repute, and educated
+<pb n="2" facs="tcp:170198:3"/>
+him for a few years honeſtly, and ac<g ref="char:EOLhyphen"/>cording to their quality, but his ambiti<g ref="char:EOLhyphen"/>ous ſpirit and running head, not long brooking to be curb'd by the reyns of unbridled youth, he tooke occaſion to run from his Father and Mother, and came to <hi>London,</hi> where he <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound him<g ref="char:EOLhyphen"/>ſelfe an Apprentice to a Silk-weaver in <hi>Shoreditch;</hi> but being ſoon-out of love with that place alſo, as a trade too ſet<g ref="char:EOLhyphen"/>led for his wandr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng mind, he left that alſo and took upon him a Tapſters place to draw drink in a common Ale-houſe, unto which place reſorted many people of ſundry diſpoſitions, and amongſt the reſt a crew of Cutters that perceiving <hi>Dick Hannam</hi> to be of a quick ingeni<g ref="char:EOLhyphen"/>ous capacity ſoon invited him to leave that calling alſo, and to imbrace their wicked ſociety, wherein in a ſhort time he ſo well profited that from a ſervant he became a Maſter, and by his exquiſite skill in Theevery was able to teach his Teachers.</p>
+            <p>I ſhall omit many of his mad pranks
+<pb n="3" facs="tcp:170198:3"/>
+playd in <hi>England</hi> at his firſt entrance in<g ref="char:EOLhyphen"/>to this th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eviſh trade, becauſe I would only mention that which is freſheſt in memory: about the yeare 1650: he tra<g ref="char:EOLhyphen"/>vel'd into <hi>Denmark,</hi> where by cunning policy &amp; the help of his wicked Confe<g ref="char:EOLhyphen"/>derats he rob'd the Kings Treaſury and conveyed away a vaſt ſum of Mony, but this not contenting his avaritious hu<g ref="char:EOLhyphen"/>mour he paſt from thence into <hi>Swedland</hi> and there rob'd the Queen of 4000 <hi>l.</hi> in Mony, with Rings, Plate, and Jewels, a<g ref="char:EOLhyphen"/>mounting to a very conſiderable ſumme, yet it had like to have coſt him deare, for diligent ſearch being made after him he was quickly apprehended and committed to the common priſon, there to remaine till upon tryall he ſhould be convey'd to the gallowes: but <hi>Hannam,</hi> though he lov'd ſtealing, yet was out of love with hanging, and being expert in his trade ſoon found out a way to unloſe himſelf by filing off his Irons, picking open the Locks, and breaking the Goale.</p>
+            <p>
+               <pb n="4" facs="tcp:170198:4"/>
+Having thus rid himſelfe out of that danger, he alſo quitted the place, and from thence ſailed into <hi>Holland,</hi> where for a while he lived like a Gentleman, and a pretended Merchant of very great quality, and by his fair inſinuating tongue got into great acquaintance and was very well beloved, amongſt the chiefeſt perſons of quallity in <hi>Amster<g ref="char:EOLhyphen"/>dam:</hi> (for there was his reſidence) at length through his subtelty, he found an oppertunity to break up their Banke of moneys, and tooke out as much as he knew well what to do withall; and be<g ref="char:EOLhyphen"/>fore it was diſcovered tranſported both him ſelfe and his Coyne into England, in the yeare 1655.</p>
+            <p>And here I cannot but vindicate him from one common lie which is frequent in every mans mouth, and likewiſe prin<g ref="char:EOLhyphen"/>ted in one feigned fooliſh pamphlet, to wit, that he ſhould robb the King of Scots, Really as the gallowes hath its due, ſo I would have the thiefe to have his likewiſe: and I doe verily believe,
+<pb n="5" facs="tcp:170198:4"/>
+and that upon very good grounds, (if a dying man may be to be believed) that he never did any ſuch thing, but abhor'd the very thought of it. Furthermore, that nonſenſical book renders him guil<g ref="char:EOLhyphen"/>ty of many bloody murders; but I think no man ever heard that he ever was ſo much as arraigned for murder, much leſſe that he killed any man: but I ſhall wave this diſcourſe, leſt I ſhould be miſ<g ref="char:EOLhyphen"/>taken, and proceed to his deportment in <hi>England.</hi>
+            </p>
+            <p>
+               <hi>Hannam</hi> living in <hi>London</hi> at a very great height for a time, kept company with the beſt, and ſpent his mony free<g ref="char:EOLhyphen"/>ly; for he had perfectly learned the old proverb, <hi>Lightly come, lightly go:</hi> but the Addition <hi>(quickly gone)</hi> ſoon fol<g ref="char:EOLhyphen"/>lowed<g ref="char:punc">▪</g> and that drove him to his old trade of Thieving again for more; but not with ſo good ſucceſſe as formerly, For adventuring with ſome other of his Confederates to robb Alderman <hi>Han<g ref="char:EOLhyphen"/>cocks</hi> houſe, a Vintner at the Grey<g ref="char:EOLhyphen"/>hound in Fleetſtreet: after they had
+<pb n="6" facs="tcp:170198:5"/>
+wounded him in his bed, conveyed a<g ref="char:EOLhyphen"/>way ſome plate, and other goods; they made their eſcape; but within two or three dayes after, two men and a wo<g ref="char:EOLhyphen"/>man were apprehended for the fact, tried at the next Seſsions, found guilty, and hanged before Mr. <hi>Hancocks</hi> doore, 1654. Within a little while after this <hi>Richard Hannam</hi> was apprehended for the ſame crime, examined, caſt and condemned to be hanged by the Neck till he died, after the uſual manner, and ſo conveyed back to <hi>Newgate,</hi> there to be kept till the day of Execution.</p>
+            <p>Now or never was it high time for <hi>Hannam</hi> to beſtirre himſelf, on Satur<g ref="char:EOLhyphen"/>day he was condemned, on Munday he was to be hanged, long time he had not to conſider on it; and therefore to be ſhort, he ſuddenly pitcht upon this de<g ref="char:EOLhyphen"/>vice.</p>
+            <p>The French Embaſſador having not long before been rob'd of his plate, he pretends to diſcover the thieves: Here<g ref="char:EOLhyphen"/>upon the Embaſſador gets a Reprieve
+<pb n="7" facs="tcp:170198:5"/>
+from his Highneſs the Lord Protector? til he ſhould accompliſh it, In the mean mean time <hi>Hannam</hi> plots his eſcape out of Newgate, and thus effects it: One morning about three or ſoure of the clock, after the Watch was riſen, hee files off his Chains, as it was his uſuall cuſtome eaſily to doe, cunningly picks open the locks, and ſcrewes out the bars of three or four ſtrong doores, comes down into the Lodge, the Keepers be<g ref="char:EOLhyphen"/>ing all aſleep, unlocks the outward door lets himſelf out, and ſo made his eſcape; for which the Keepers were indited the Seſsions following; but upon examina<g ref="char:EOLhyphen"/>tion acquitted, onely little <hi>Grimes</hi> the under Clerk confeſt that he knew when hee went out, but durſt not ſpeake for fear of being kil'd; and for being privic to his eſcape, he was hanged 1655.</p>
+            <p>Much ſearch and diligent inquiry be<g ref="char:EOLhyphen"/>ing made to retake <hi>Hannam,</hi> he was in a ſhort time after his eſcape, again appre<g ref="char:EOLhyphen"/>hended in <hi>Eſſex</hi> and brought up to <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> but as he came through <hi>Cheap-ſide</hi>
+               <pb n="8" facs="tcp:170198:6"/>
+juſt againſt Sadlers Hall he fell upon the two men that guarded him, ſtrooke up their heeles and run cleare away, ſo once more freed himſelfe from danger, but liking no place for his habitation ſo well as <hi>London,</hi> in <hi>May</hi> laſt, 1656. hee hires a chamber in Bearbinder-Lane, neere Lumberd-ſtreet at one M. <hi>Cham<g ref="char:EOLhyphen"/>berlayns</hi> a Box-maker by his trade, but an Ale-houſe keeper withall, and there kept himſelfe privately and unknown pretending to be a working gold-ſmith. but it is thought that he Coyned mony there, for ſtamps for that purpoſe have bin taken in the houſe ſince Saturday the 14. of <hi>June,</hi> 1656. Upon which day about 5 of the clock in the afternoon, he with his Father in Law (Mr. <hi>Rudd)</hi> one man more, and <hi>Tom Dales</hi> wife the Fid<g ref="char:EOLhyphen"/>ler, came to the ſigne of the Kings head to one Mr, <hi>Langhornes</hi> a ſmall victual ling houſe at the Lanes end, and cal'd for a cup of Beer, a low Room was ſhewed them, but that not ſuiting with their pur<g ref="char:EOLhyphen"/>poſes, they a skt to goe up ſtairs, and did
+<pb n="9" facs="tcp:170198:6"/>
+ſo, where watching their opportunity, they pickt open a Cheſt and role out 8 <hi>l.</hi> 19 ſhillings in mony, with ſome o<g ref="char:EOLhyphen"/>ther goods which was conveyed away by the woman: being ſuſpected by Ms. <hi>Langhorn,</hi> ſhe went up into the chamber and quickly perceived what they had done, yet very wiſely ſeemes to take no notice of it, but goes downe and ac<g ref="char:EOLhyphen"/>quaints her husband with it, who im<g ref="char:EOLhyphen"/>mediately goes to Sir <hi>Thomas Vines</hi> in Lumberdſtreet, gets his warrant, and with a Conſtable comes to apprehend theſe fellones, who ſtil continued there drinking: Mr. <hi>Rudd</hi> and the other they tooke and carryed them before the Juſtice, who committed them both to <hi>Newgate:</hi> but nimble <hi>Hannam</hi> made his eſcape out of the houſe top, and clam<g ref="char:EOLhyphen"/>bred like a Cat from one houſe to ano<g ref="char:EOLhyphen"/>ther untill at laſt he got into a garret, ſome halfe a dozen doores off where a young man was at worke, who being amazed to ſee one come in, in that man<g ref="char:EOLhyphen"/>ner, <hi>Hannam</hi> very meekly beſeecht him
+<pb n="10" facs="tcp:170198:7"/>
+to do him the favour as to convey him out of doors, for ſays he, I am in danger to be arreſted, being purſued by halfe a dozen Sergeants, and if I be catcht, I ſhal be caſt in priſon &amp; undone. The young man believing him, &amp; ſuppoſing all that he had ſaid to be true, willingly aſſiſted him, and ſo let him eſcape cleare away But <hi>Hannam</hi> inwardly fretting &amp; vexing that his father in law was taken, vowed revenge upon Mr. <hi>Langhorn;</hi> and to that end about 4 houres after in the evening, having chang'd his clothes, he came back to his houſe, and found him ſtanding at the Barre with his face from him.</p>
+            <p>
+               <hi>Hannam</hi> makes no more adoe, but with a dagger-knife that he had, ſtabbs him in the ſhoulder; and upon his turn<g ref="char:EOLhyphen"/>ing about, wounded him in the arm in two places, intending to have kild him, and again made his eſcape through and over the houſes, till he came to Serjeant <hi>Proby's</hi> yard, whoſe gate being lockt up, put a ſtop to his furt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er paſſage. Serge<g ref="char:EOLhyphen"/>ant <hi>Proby</hi> ſeeing a man come into his
+<pb n="11" facs="tcp:170198:7"/>
+yard in that maner, and at that unſeaſo<g ref="char:EOLhyphen"/>nable hour, preſently concluded he in<g ref="char:EOLhyphen"/>tended to rob him, &amp; cal'd for his ſword. <hi>Hannam</hi> intreats him to begood to him: for really ſir ſays he I come for no harm neither mean I any to your houſ, but on<g ref="char:EOLhyphen"/>ly to free my ſelf from au areſt, therfore I beſeech you ſuffer me to paſs out at your gate. Sergeant <hi>Proby</hi> being too wiſe to believe his fayned ſtory, makes at him with a good courage, &amp; at the firſt thruſt wounded him in the thigh. <hi>Hannam</hi> fee<g ref="char:EOLhyphen"/>ling it ſmart, clapt within him, &amp; ſtab'd him with his dagger in the belly, &amp; alſo ſtab'd his man in 2 or 3 places, yet at laſt was over-maſtered, &amp; gotten down; ſo Sergeant <hi>Proby</hi> ſent for a Conſtable, who carried him away to the <hi>Poultry Counter</hi> for that night; the next morning brought him before Alderman <hi>Foot,</hi> &amp; upon examination he còfeſt what he was, &amp; what he had done, ſeeming rather to glory in, then to be ſorry for his villany. For when the Alderman askt him how he got out of Newgate? Sayes hee, I
+<pb n="12" facs="tcp:170198:8"/>
+opened ſuch doores I think, as none but the Divell could have opened, and with as much eaſe as one of your ſervants can open your door with the key in his hand, and ſo I went out. Being asked, if any of the Keepers were privy to, or aſ<g ref="char:EOLhyphen"/>ſiſting in his eſcape; he fairly cleared them all, only little <hi>Grimes,</hi> who faith he might have gone with me if he would, I offered him to maintain him lik a man as long as he lived; but perceiving him faint-hearted, I bid him ſtay and be han<g ref="char:EOLhyphen"/>ged, and ſo it ſeems he was. After ſome other diſcourſ, he was ſent to Newgate, and there ſtrictly watcht and guarded till the day of his execution which was upon Tueſday the 17 of June, 1656. the manner thus: There being a Gibbet erected in the middle of the Round in Smithfield, at eleven of the clock, <hi>Han<g ref="char:EOLhyphen"/>nam</hi> was drawn thither in a Cart, at<g ref="char:EOLhyphen"/>tended by the honourable Sheriffes of <hi>London,</hi> with a very great guard of Of<g ref="char:EOLhyphen"/>ficers, and multitudes of people to ſee his laſt farewell. When he came to the
+<pb n="13" facs="tcp:170198:8"/>
+place of execution, he ſtood up in the Cart, and addreſt himſelfe to the She<g ref="char:EOLhyphen"/>riffs in theſe words:</p>
+            <div type="speech">
+               <opener>
+                  <salute>Mr. Sheriffes,</salute>
+               </opener>
+               <p>I <hi>Stand here before you and this great con<g ref="char:EOLhyphen"/>courſe of People; an exemplary object of justice, and you the Miniſters thereof, to ſe it executed upon me, I confeſs my offences have bin numerous and heynous, and I could heartily wiſh that my ruine might be a warning to them which yet ſtand, and take delight in ſuch finfull courſes: wherein the greateſt part of my time hath vainly bin conſumed. One requeſt I have to your wor<g ref="char:EOLhyphen"/>ſhips and that is in behalfe of my Landlord and Landlady Mr.</hi> Chamberlayne, <hi>and his wife, who are impriſoned becauſe I lodged in their houſe; they being innocent neither knowing my name, nor my quallitie for I there went under the name of</hi> Rich<g ref="char:EOLhyphen"/>ardſon, <hi>a working Gold-ſmith, Therefore I humbly beg that they may be ſet at liberty.</hi>
+               </p>
+               <p>
+                  <hi>I have now done with all the world and have no more to ſay to any man, God have mercy upon my Soul. Then going up the</hi>
+                  <pb n="14" facs="tcp:170198:9"/>
+                  <hi>Ladder he pul'd a white cap out of his pock<g ref="char:EOLhyphen"/>et and gave it to the hang-man, who put it upon his head over his face with his mourn<g ref="char:EOLhyphen"/>ing hatband over that and ſo lifting up his hands towards heaven, when the execution<g ref="char:EOLunhyphen"/>er toucht him on the ſhoulder he turn'd himſelfe off the Ladder. After his body had hung about halfe an houre, it was cut down and carried to the three-Tuns in Smith-field, and from thence in the even<g ref="char:EOLhyphen"/>ing to St. Pulchers Church-yard and there Bu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ied,</hi>
+               </p>
+               <trailer>
+                  <l>In ſtead of FINIS this advice <hi>I</hi> ſend,</l>
+                  <l>Let Rogues and Thieves beware of <lb/>
+                     <hi>Hamans</hi> END.</l>
+               </trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Licſenced and Entered according to Order.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
